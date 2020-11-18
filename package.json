@@ -1,0 +1,52 @@
+{
+    "name": "react-extension-pack",
+    "displayName": "react-extension-pack",
+    "description": "🚚Popular VS Code extensions for react.js development.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "galleryBanner": {
+        "color": "#58bc58",
+        "theme": "dark"
+    },
+    "publisher": "Wscats",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/Wscats/react-extension-pack"
+    },
+    "homepage": "https://github.com/Wscats/react-extension-pack",
+    "bugs": {
+        "url": "https://github.com/Wscats/react-extension-pack/issues"
+    },
+    "keywords": [
+        "react",
+        "reactjs",
+        "extension pack",
+        "react extension collection",
+        "eslint",
+        "javascript",
+        "format",
+        "snippets",
+        "intellisense",
+        "git"
+    ],
+    "scripts": {
+        "build": "vsce package"
+    },
+    "extensionPack": [
+        "dsznajder.es7-react-js-snippets",
+        "xabikos.javascriptsnippets",
+        "dbaeumer.vscode-eslint",
+        "CoenraadS.bracket-pair-colorizer",
+        "Wscats.search",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "christian-kohler.npm-intellisense",
+        "visualstudioexptteam.vscodeintellicode",
+        "esbenp.prettier-vscode"
+    ]
+}
