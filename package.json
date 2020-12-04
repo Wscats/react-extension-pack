@@ -2,7 +2,7 @@
     "name": "react-extension-pack",
     "displayName": "React Extension Pack",
     "description": "🚚Popular VS Code extensions for react.js development.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -39,7 +39,7 @@
     },
     "extensionPack": [
         "dsznajder.es7-react-js-snippets",
-        "xabikos.javascriptsnippets",
+        "wscats.html-snippets",
         "dbaeumer.vscode-eslint",
         "CoenraadS.bracket-pair-colorizer",
         "Wscats.search",

@@ -5,7 +5,7 @@ A useful extension collection to start developing with React in Visual Studio Co
 ## Extensions Included
 
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
-- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax.
+- [HTML/CSS/JavaScript Snippets](https://marketplace.visualstudio.com/items?itemName=Wscats.html-snippets) - HTML/CSS/JavaScript/Jade/Pug/Less/Sass/Stylus/ES6 Snippets Support.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - A customizable extension for colorizing matching brackets.
 - [Search Hero - Google/Bing/Baidu/Wiki/Yahoo/Github/Npm Engine](https://marketplace.visualstudio.com/items?itemName=Wscats.search) - 🔍Support search and translate online.
